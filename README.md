@@ -2,8 +2,8 @@
 
 👀 I’m interested in web and mobile development.
 
-🌱 I’m currently learning web development @ Masai School.
+🌱 I’m currently aspiring Full Stack Web Developer.
 
-💞️ I’m looking to collaborate on none.
+💞️ Learning MERN Stack at Masai School, Bengaluru, Karnataka.
 
 📫 How to reach me @rishabh.choudhary015@gmail.com.
