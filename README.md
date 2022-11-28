@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
-- 👨‍💻 All of my projects are available at [https://rishav015.github.io/](https://rishav015.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rishav015.github.io/)
 
 - 💬 Ask me about **Java , Spring Boot**
 
 - 📫 How to reach me **rishabh.choudhary015@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Cf6D5FjfVmzColiZD__0j_YVB1g_x1p2/view?usp=sharing](https://drive.google.com/file/d/1Cf6D5FjfVmzColiZD__0j_YVB1g_x1p2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Cf6D5FjfVmzColiZD__0j_YVB1g_x1p2/view?usp=sharing)
 
 - ⚡ Fun fact **Tech is gaming for me.**
 
