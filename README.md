@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Cf6D5FjfVmzColiZD__0j_YVB1g_x1p2/view?usp=sharing)
 
-- ⚡ Fun fact **Tech is gaming for me.**
+- ⚡ Fun fact **The Gameboy was the First Game in Space**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
