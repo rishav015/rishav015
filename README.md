@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rishav015.github.io/)
 
-- 💬 Ask me about **Java ,JavaScript, Spring Boot**
+- 💬 Ask me about **Java , JavaScript , Spring Boot**
 
 - 📫 How to reach me **rishabh.choudhary015@gmail.com**
 
