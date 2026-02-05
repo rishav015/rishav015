@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rishabh.choudhary015@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Cf6D5FjfVmzColiZD__0j_YVB1g_x1p2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yIACaOtUhQnZCimZ3ntXedb6PdubPKXd/view?usp=drive_link)
 
 - ⚡ Fun fact **The Gameboy was the First Game in Space**
 
